@@ -10,6 +10,7 @@ use JDBC URL -> jdbc:h2:mem:testdb
 Build and run the app using maven
 --------------------------------
 mvn package
+
 java -jar target/easy-notes-1.0.0.jar
 
 Alternatively, you can run the app without packaging it using -
